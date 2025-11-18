@@ -42,4 +42,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: srinivaskamireddy/fastapi-calculations:latest
+          tags: srinivaskamireddy/fastapi-calculations_latest_factorypattern
